@@ -1,0 +1,161 @@
+<div id="horaire">
+        <table>
+            <tr><td>Horaires</td></tr>
+            <tr><td>8h</td></tr>
+            <tr><td>9h</td></tr>
+            <tr><td>10h</td></tr>
+            <tr><td>11h</td></tr>
+            <tr><td>12h</td></tr>
+            <tr><td>13h</td></tr>
+            <tr><td>14h</td></tr>
+            <tr><td>15h</td></tr>
+            <tr><td>16h</td></tr>
+            <tr><td>17h</td></tr>
+            <tr><td>18h</td></tr>
+        </table>
+    </div>
+    <div id="Lundi">
+        <table>
+        <tr><td>Lundi</td></tr>
+        <tr id="8h"><td>qsdsq</td></tr>
+        <tr id="9h"><td>sqdsdq</td></tr>
+        <tr id="10h"><td>sqd</td></tr>
+        <tr id="11h"><td>qsdqsd</td></tr>
+        <tr id="12h"><td>qsdsqd</td></tr>
+        <tr id="13h"><td>qsdsd</td></tr>
+        <tr id="14h"><td>qddqs</td></tr>
+        <tr id="15h"><td>qsdsd</td></tr>
+        <tr id="16h"><td>qdqsd</td></tr>
+        <tr id="17h"><td>qsdsd</td></tr>
+        <tr id="18h"><td>qsdqsd</td></tr>
+        </table>
+    </div>
+    <div id="Mardi">
+    <table>
+        <tr><td>Mardi</td></tr>
+        <tr id="8h"><td>qsdsq</td></tr>
+        <tr id="9h"><td>sqdsdq</td></tr>
+        <tr id="10h"><td>sqd</td></tr>
+        <tr id="11h"><td>qsdqsd</td></tr>
+        <tr id="12h"><td>qsdsqd</td></tr>
+        <tr id="13h"><td>qsdsd</td></tr>
+        <tr id="14h"><td>qddqs</td></tr>
+        <tr id="15h"><td>qsdsd</td></tr>
+        <tr id="16h"><td>qdqsd</td></tr>
+        <tr id="17h"><td>qsdsd</td></tr>
+        <tr id="18h"><td>qsdqsd</td></tr>
+        </table>
+    </div>
+    <div id="Mercredi">
+    <table>
+        <tr><td>Mercredi</td></tr>
+        <tr id="8h"><td>qsdsq</td></tr>
+        <tr id="9h"><td>sqdsdq</td></tr>
+        <tr id="10h"><td>sqd</td></tr>
+        <tr id="11h"><td>qsdqsd</td></tr>
+        <tr id="12h"><td>qsdsqd</td></tr>
+        <tr id="13h"><td>qsdsd</td></tr>
+        <tr id="14h"><td>qddqs</td></tr>
+        <tr id="15h"><td>qsdsd</td></tr>
+        <tr id="16h"><td>qdqsd</td></tr>
+        <tr id="17h"><td>qsdsd</td></tr>
+        <tr id="18h"><td>qsdqsd</td></tr>
+        </table> 
+    </div>
+    <div id="Jeudi">
+    <table>
+        <tr><td>Jeudi</td></tr>
+        <tr id="8h"><td>qsdsq</td></tr>
+        <tr id="9h"><td>sqdsdq</td></tr>
+        <tr id="10h"><td>sqd</td></tr>
+        <tr id="11h"><td>qsdqsd</td></tr>
+        <tr id="12h"><td>qsdsqd</td></tr>
+        <tr id="13h"><td>qsdsd</td></tr>
+        <tr id="14h"><td>qddqs</td></tr>
+        <tr id="15h"><td>qsdsd</td></tr>
+        <tr id="16h"><td>qdqsd</td></tr>
+        <tr id="17h"><td>qsdsd</td></tr>
+        <tr id="18h"><td>qsdqsd</td></tr>
+        </table> 
+    </div>
+    <div id="Vendredi">
+    <table>
+        <tr><td>Vendredi</td></tr>
+        <tr id="8h"><td>qsdsq</td></tr>
+        <tr id="9h"><td>sqdsdq</td></tr>
+        <tr id="10h"><td>sqd</td></tr>
+        <tr id="11h"><td>qsdqsd</td></tr>
+        <tr id="12h"><td>qsdsqd</td></tr>
+        <tr id="13h"><td>qsdsd</td></tr>
+        <tr id="14h"><td>qddqs</td></tr>
+        <tr id="15h"><td>qsdsd</td></tr>
+        <tr id="16h"><td>qdqsd</td></tr>
+        <tr id="17h"><td>qsdsd</td></tr>
+        <tr id="18h"><td>qsdqsd</td></tr>
+        </table>
+    </div>
+    <div id="Samedi">
+    <table>
+        <tr><td>Samedi</td></tr>
+        <tr id="8h"><td>qsdsq</td></tr>
+        <tr id="9h"><td>sqdsdq</td></tr>
+        <tr id="10h"><td>sqd</td></tr>
+        <tr id="11h"><td>qsdqsd</td></tr>
+        <tr id="12h"><td>qsdsqd</td></tr>
+        <tr id="13h"><td>qsdsd</td></tr>
+        <tr id="14h"><td>qddqs</td></tr>
+        <tr id="15h"><td>qsdsd</td></tr>
+        <tr id="16h"><td>qdqsd</td></tr>
+        <tr id="17h"><td>qsdsd</td></tr>
+        <tr id="18h"><td>qsdqsd</td></tr>
+        </table>
+    </div>
+    <div id="Dimanche">
+    <table>
+        <tr><td>Dimanche</td></tr>
+        <tr id="8h"><td>qsdsq</td></tr>
+        <tr id="9h"><td>sqdsdq</td></tr>
+        <tr id="10h"><td>sqd</td></tr>
+        <tr id="11h"><td>qsdqsd</td></tr>
+        <tr id="12h"><td>qsdsqd</td></tr>
+        <tr id="13h"><td>qsdsd</td></tr>
+        <tr id="14h"><td>qddqs</td></tr>
+        <tr id="15h"><td>qsdsd</td></tr>
+        <tr id="16h"><td>qdqsd</td></tr>
+        <tr id="17h"><td>qsdsd</td></tr>
+        <tr id="18h"><td>qsdqsd</td></tr>
+        </table>
+</div>
+<div id="seljour">
+    <p>Selection des jours :</p>
+<ul>
+    <li>
+        <input type="checkbox" id="lundicheck" checked>
+        <label>Lundi</label>
+    </li>
+    <li>
+        <input type="checkbox" id="mardicheck" checked>
+        <label>Mardi</label>
+    </li>
+    <li>
+        <input type="checkbox" id="mercredicheck" checked>
+        <label>Mercredi</label>
+    </li>
+    <li>
+        <input type="checkbox" id="jeudicheck" checked>
+        <label>Jeudi</label>
+    </li>
+    <li>
+        <input type="checkbox" id="vendredicheck" checked>
+        <label>Vendredi</label>
+    </li>
+    <li>
+        <input type="checkbox" id="samedicheck" checked>
+        <label>Samedi</label>
+    </li>
+    <li>
+        <input type="checkbox" id="dimanchecheck" checked>
+        <label>Dimanche</label>
+    </li>
+</ul>
+</div>

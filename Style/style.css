@@ -1,0 +1,176 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight:bold;
+    color: #17375e;
+    text-decoration: none;
+    scrollbar-width: auto;
+    scrollbar-color: #17375e #cfcccc;
+}
+
+nav{
+    height: 100%;
+    position: sticky;
+    width: 100% ;
+  }
+  nav ul{
+    background-color: #17375e;
+    margin-left: 40px;
+    width: 100%;
+    height: 20%;
+    border-right: none;
+    border-top-left-radius: 45px;
+    border-bottom-left-radius: 45px;
+  }
+  nav ul li{
+    display: inline-block;
+    line-height: 10 px;
+    margin: 0 5px;
+  }
+
+  nav ul li p{
+  color: #cfcccc;
+}
+
+nav ul li p ion-icon{
+    color: #cfcccc;
+  }
+
+  nav ul li a ion-icon{
+    color: #cfcccc;
+  }
+  nav ul li a{
+    border-spacing: 20px;
+    color: #cfcccc;
+    height: 2em;
+    width: 2em;
+    border-radius: 3px;
+    text-transform: uppercase;
+    transition: .5s;
+  }
+
+
+  nav ul li a .sep{
+    color: #cfcccc;
+    font-size: 10em;
+}
+nav ul li a.active,a:hover{
+  color:#17375e ;
+  background-color:#cfcccc;
+  font-size: 1.2em;
+}
+
+
+body {
+    background-color: #cfcccc;
+    overflow-x: hidden;
+}
+
+
+
+#navbar li a{
+    text-decoration: none;
+}
+
+
+#res p{
+    text-align: center;
+}
+
+input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 90px;
+    box-sizing: border-box;
+}
+
+input[type=tel], input[type=date], input[type=time]{
+    background-color: white;
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 90px;
+    box-sizing: border-box;
+    text-align: center;
+}
+select{
+    background-color: white;
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 90px;
+    box-sizing: border-box;
+    margin-left: 35.5%;
+}
+input[type=email]{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 90px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .1000rem	;
+}
+
+#motif {
+    text-align: center;
+}
+
+input[type=number]{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 90px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+
+input[type=submit]{
+    background-color: #17375e;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 90px;
+    cursor:pointer ;
+    width: 50%;
+    transition: 0.4s;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #17375e;
+    border: 2px solid #17375e;
+}
+
+
+#res a {
+    margin-left: 47%;
+    
+}
+
+
+
+
+
+
+
